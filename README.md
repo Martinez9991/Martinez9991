@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinez9991&label=Profile%20views&color=0e75b6&style=flat" alt="martinez9991" /> </p>
 
-- 🔭 I’m currently working on **Pokemon Search**
+- 🔭 I’m currently taking a break and uploading old projects to repositories
 
 - 📫 How to reach me **gilmartins1999@gmail.com**
 
